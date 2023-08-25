@@ -4,6 +4,8 @@
 ./main.o
 ./private
 
+secreto.txt
+
 ### C ###
 # Prerequisites
 *.d
