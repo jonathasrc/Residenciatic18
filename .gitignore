@@ -5,6 +5,9 @@
 ./private
 
 secreto.txt
+.vscode/
+meuprog1
+meuprog2
 
 ### C ###
 # Prerequisites
