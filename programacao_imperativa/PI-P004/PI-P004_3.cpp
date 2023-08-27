@@ -69,9 +69,8 @@ int main(void){
       */
     //F
     cout << "F" << "\n";
-
     unsigned int minValueLongint = numeric_limits<unsigned int>::min();
-    unsigned int maxValueLongint = numeric_limits<unsigned int>::max();
+    unsigned int maxValueLongint = numeric_limits< int>::max();
 
     cout << "o tipo long int ocupa: " << sizeof(long int) << "\n";
     cout << "O menor valor representável por um long int é: " << minValueLongint << endl;
